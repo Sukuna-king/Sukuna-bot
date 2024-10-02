@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "kuraikokoro60@gmail.com",
+    "email": "inatajunior@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -19,14 +19,14 @@
   "adminBot": [
     "61556172651835",
     "61562378213770",
-    "61559323114919"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "SUKUNA..𝑩𝑶𝑻",
+  "nickNameBot": "☆𝑺𝑼𝑲𝑼𝑵𝑨☆",
   "prefix": "+",
   "database": {
     "type": "sqlite",
@@ -140,4 +140,4 @@
     "autoReconnect": false,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-  } 
+    }
